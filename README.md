@@ -4,9 +4,9 @@
 
 ### Core Frameworks & Languages
 
-ASP.NET Core 8 < br / >
+ASP.NET Core 8 <br />
 C# < br / >
-Entity Framework Core < br / >
+Entity Framework Core 
 SQL Server
 
 ### Authentication
