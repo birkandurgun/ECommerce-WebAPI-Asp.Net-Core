@@ -16,7 +16,7 @@ JWT (JSON Web Token): Used for secure user authentication and session management
 
 ### Serialization
 
-Newtonsoft.Json: For JSON serialization and deserialization.
+Newtonsoft.Json: For JSON serialization and deserialization of .Net objects.
 
 ### Documentation
 
