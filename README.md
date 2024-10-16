@@ -2,22 +2,22 @@
 
 ## Technologies Used
 
-## Core Frameworks & Languages
+### Core Frameworks & Languages
 
 ASP.NET Core 8
 C#
 Entity Framework Core
 SQL Server
 
-## Authentication
+### Authentication
 
 ASP.NET Core Identity: For user authentication and management.
 JWT (JSON Web Token): Used for secure user authentication and session management.
 
-## Serialization
+### Serialization
 
 Newtonsoft.Json: For JSON serialization and deserialization.
 
-## Documentation
+### Documentation
 
 Swagger: Making it easier to test
