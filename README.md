@@ -11,7 +11,6 @@ SQL Server
 
 ### Authentication
 
-ASP.NET Core Identity: For user authentication and management. <br />
 JWT (JSON Web Token): Used for secure user authentication and session management.
 
 ### Serialization
